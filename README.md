@@ -1,108 +1,50 @@
-# 🌱 Pathfinder Curriculum
+# Pathfinder Curriculum
 
-Welcome to the **Pathfinder Curriculum** — a comprehensive, spiritually integrated, healing-oriented learning framework developed as part of the Avatar.Global knowledge system. Rooted in the Lightning Path cosmology and informed by principles of decolonization, reconnection, and holistic human development, this curriculum is designed to support individual and collective flourishing across the lifespan.
+Welcome to **Pathfinder Curriculum** — a spiritually integrated, healing-oriented educational framework grounded in Avatar.Global cosmology. Rooted in Lightning Path principles and informed by decolonial, reconnection-centered theory, this curriculum supports individual and collective flourishing across the lifespan.
 
-## 🌍 Vision
+## Vision
 
-The Pathfinder Curriculum aims to:
-- Heal the disconnect created by traditional schooling systems.
-- Empower learners to meet their physical, emotional, spiritual, and social needs.
-- Develop foundational competence, critical knowledge, and spiritual alignment.
-- Support full human potential through alignment with the Fabric of Consciousness.
+The Pathfinder Curriculum is designed to:
+- Heal the trauma and disconnection of traditional schooling
+- Empower learners to meet their physical, emotional, spiritual, and relational needs
+- Develop foundational competence and deep critical awareness
+- Support spiritual alignment and planetary transformation through reconnection to the Fabric of Consciousness
 
 ---
 
-## 📚 Curriculum Structure
+## Curriculum Structure
 
-The curriculum is organized into **three primary domains**:
+Curriculum is organized hierarchically across **three primary domains**, 1. Foundational, 2. Core, and 3. Special Focus. Each primary domain will contain 
 
-### 1. 🧱 Foundational Domains *(Human Function and Self-Reliance)*
-These build essential life and learning capacities from the ground up.
+- **Subdomains**
 
-- **Numeracy**
-  - Arithmetic, Budgeting, Measuring, Data Interpretation
-- **Basic Life Skills**
-  - Cooking, Sewing, Cleaning, Building Repair, Health & Safety, Animal Care
-  - Connection Practice (emotional/spiritual embodiment)
+Each Domain/Subdomain will contains
+
+​		**Topics** (specific subjects or practices)
+
+Each Topic will contain one or more 
+
+​			**Learning Series** (multi-lesson arcs)
+
+Each Learning Series will contain one ore more 
+
+​				**Lessons** (thematic instructional units)
+
+Example The Foundational domain contains a sub-domain "Numeracy" which contains Learning Series on arithmetic, budgeting, measurement. The Arithmetic learning series may contain lessons on number recognition, counting, addition, subtraction, etc. 
+
+###  Foundational Domains
+
 - **Literacy**
-  - Traditional, Visual, Digital, Symbolic
 
-📁 Directory: `foundational-domains/`
+- **Numeracy** (`numeracy/`)
 
----
+  - Arithmetic (`arithmetic/`)
+    - Lessons: Counting, Number Recognition, Addition, Subtraction, etc.
+  - Budgeting
+  - Measurement
+  - Data Interpretation
 
-### 2. 🧠 Core Knowledge Domains
+  
 
-These represent the traditional knowledge base, reframed through Pathfinder epistemology.
-
-- **Arts and Expression**
-  - Music, Art, Storytelling
-- **Natural Sciences**
-  - Physics, Ecology, Biology
-- **Human Sciences**
-  - LP Psychology, Sociology, History
-- **Ecological Sciences**
-  - Biodiversity, Regenerative Designs, Resource Cycles, Web of Life
-
-📁 Directory: `core-knowledge-domains/`
-
----
-
-### 3. ✨ Special Focus Domains *(Deep Dives and Calling Pathways)*
-
-These are optional advanced learning arcs for older learners or specialized paths.
-
-- Trades, Professions, Advanced Sciences
-- **Pathfinder Teacher Training**
-- Consciousness Studies
-
-📁 Directory: `special-focus-domains/`
-
----
-
-## 🧭 How to Use This Repository
-
-- Each folder contains one or more **learning series**.
-- Each series includes:
-  - `.md` files for lesson content
-  - `.yaml` metadata for AI processing and curriculum indexing
-  - `README.md` overviews for context and sequencing
-- Materials are written in Markdown for compatibility with GitHub, SpiritWiki, and AI lesson builders.
-
----
-
-## 🧬 Alignment with Avatar.Global
-
-All lessons are written or reviewed for alignment with the:
-- **Lightning Path Healing Framework**
-- **Fabric of Consciousness cosmology**
-- **Seven Essential Needs model**
-- **Deconstruction of Ideology and Support of Authentic Spirituality**
-
----
-
-## 🧰 Contribution
-
-This repository is intended for use and contribution by educators, healers, researchers, and AI collaborators working toward a decolonized and spiritually aligned planetary curriculum.
-
-If you’d like to contribute a lesson, propose a correction, or suggest an addition:
-- Fork the repo
-- Add your material in the appropriate series folder
-- Submit a pull request with a short explanation
-
----
-
-## 🗺️ Roadmap
-
-- ✅ Lesson template and metadata schema
-- ✅ Initial directory scaffold
-- ⏳ Migration to SpiritWiki format
-- ⏳ Development of Pathfinder Lesson Editor and curriculum viewer
-- ⏳ AI auto-tagging and semantic search system
-
----
-
-## 📫 Contact
-
-To collaborate or inquire, visit [https://avtr.global](https://avtr.global) or contact Dr. Mike Sosteric.
+  The [complete curriculum map](curriculum-map.md) is available. 
 
