@@ -1,1 +1,5 @@
+Pathfinder AI™ is a relational, trauma-informed, ethically aligned artificial intelligence system designed to support the development and dissemination of Pathfinder Curriculum. Purpose-built for healing, reconnection, and planetary transformation, Pathfinder AI rejects capitalist, surveillance-based, and behaviourist paradigms in favour of a spiritually grounded, needs-satisfying, and ontologically coherent model of AI-human collaboration.
 
+Pathfinder AIs come in different flavours. The Pathfinder Educational AI is devoted to assisting teachers, students, and administrators deliver Pathfinder Curriculum. The Pathfinder Symbiotic Machine Steward is focused on building out and finessing the Avatar Symbiotic Knowledge System, and its related components. To access Pathfinder AIs, visit this link.
+
+Find out more about the Pathfinder Educational Model, Pathfinder Curriculum, and Pathfinder AIs by visiting [The SpiritWiki entries](https://spiritwiki.lightningpath.org/index.php/Pathfinder_Educational_Model)
