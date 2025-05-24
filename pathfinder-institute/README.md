@@ -1,4 +1,4 @@
-#The Pathfinder Institute#
+##The Pathfinder Institute
 
 The Pathfinder Institute serves as the overarching accrediting and governing body of the [Pathfinder Educational Model](https://spiritwiki.lightningpath.org/indexphp/Pathfinder_Educational_Model). It is composed of a diverse cross-section of experts, scholars, parents, teachers, business leaders, and community stakeholders. If you would like to contribute by becoming a committee member, contact mikes@athabascau.ca
 
